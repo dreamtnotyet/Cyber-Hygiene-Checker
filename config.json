@@ -1,0 +1,6 @@
+{
+    "check_interval_days": 7,
+    "email_notifications": false,
+    "auto_report": true,
+    "privacy_mode": true
+}
